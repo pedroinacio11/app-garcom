@@ -18,17 +18,45 @@ under the License.
 */
 
 // Note, these will be updated automatically at build time
-var CACHE_VERSION = '1507608022176';
+var CACHE_VERSION = '1507660533978';
 var CACHE_LIST = [
     "/config.xml",
     "/cordova-sw.js",
     "/cordova.js",
     "/cordova_plugins.js",
     "/css/index.css",
+    "/css/materialize.css",
+    "/css/materialize.min.css",
     "/favicon.ico",
+    "/font/material-design-icons/LICENSE.txt",
+    "/font/material-design-icons/Material-Design-Icons.eot",
+    "/font/material-design-icons/Material-Design-Icons.svg",
+    "/font/material-design-icons/Material-Design-Icons.ttf",
+    "/font/material-design-icons/Material-Design-Icons.woff",
+    "/font/material-design-icons/Material-Design-Icons.woff2",
+    "/font/roboto/Roboto-Bold.ttf",
+    "/font/roboto/Roboto-Bold.woff",
+    "/font/roboto/Roboto-Bold.woff2",
+    "/font/roboto/Roboto-Light.ttf",
+    "/font/roboto/Roboto-Light.woff",
+    "/font/roboto/Roboto-Light.woff2",
+    "/font/roboto/Roboto-Medium.ttf",
+    "/font/roboto/Roboto-Medium.woff",
+    "/font/roboto/Roboto-Medium.woff2",
+    "/font/roboto/Roboto-Regular.ttf",
+    "/font/roboto/Roboto-Regular.woff",
+    "/font/roboto/Roboto-Regular.woff2",
+    "/font/roboto/Roboto-Thin.ttf",
+    "/font/roboto/Roboto-Thin.woff",
+    "/font/roboto/Roboto-Thin.woff2",
+    "/icons/material.css",
+    "/icons/MaterialIcons-Regular.ttf",
     "/img/logo.png",
     "/index.html",
     "/js/index.js",
+    "/js/jquery.min.js",
+    "/js/materialize.js",
+    "/js/materialize.min.js",
     "/manifest.json"
 ];
 
