@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Garçonete So de Cenoura",
+  "short_name": "Garçonete So de Cenoura",
+  "version": "com.phinacio.garconapp",
+  "description": "A sample Apache Cordova application that responds to the deviceready event.",
+  "author": "Pedro Henrique | phinacio",
+  "icons": [],
+  "start_url": "index.html"
+}
