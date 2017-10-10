@@ -18,7 +18,7 @@ under the License.
 */
 
 // Note, these will be updated automatically at build time
-var CACHE_VERSION = '1507606976565';
+var CACHE_VERSION = '1507608022176';
 var CACHE_LIST = [
     "/config.xml",
     "/cordova-sw.js",
