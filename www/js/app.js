@@ -43,6 +43,13 @@ $('.acao-limpar').on('click', function() {
 // click na camera faz isso!
 $('.scan-qrcode').click(function(){
     cordova.plugins.barcodeScanner.scan(function(resultado){
-      alert(resultado.text);
+
+      if(resultado.text){
+          materialize.toast('Mesa' + resultado.text, 2000);
+          $('#numero-mesa').val(resultado.text);
+      }
+    },
+    function(erro){
+      materialize.toast('Erro' + resultado.text, 2000 'red-text');
     });
-})
+});
