@@ -14,4 +14,5 @@
     <icon src="resources\android\icon\drawable-xhdpi-icon.png" />
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
+    <preference name="StatusBarBackgroundColor" value="#F57F17" />
 </widget>

@@ -15,6 +15,9 @@
     },
     "cordova-plugin-statusbar": {
       "PACKAGE_NAME": "com.phinacio.garconapp"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "PACKAGE_NAME": "com.phinacio.garconapp"
     }
   },
   "dependent_plugins": {}

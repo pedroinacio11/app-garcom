@@ -12,6 +12,9 @@
         <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
         <param name="onload" value="true" />
     </feature>
+    <feature name="BarcodeScanner">
+        <param name="android-package" value="com.phonegap.plugins.barcodescanner.BarcodeScanner" />
+    </feature>
     <name>Garçonete Só de Cenoura</name>
     <description>
         Aplicativo para uso dos waiters dentro do restaurante.
@@ -45,4 +48,5 @@
     <preference name="loglevel" value="DEBUG" />
     <preference name="SplashScreen" value="screen" />
     <preference name="SplashScreenDelay" value="3000" />
+    <preference name="StatusBarBackgroundColor" value="#E86C13" />
 </widget>
