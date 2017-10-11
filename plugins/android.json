@@ -9,6 +9,12 @@
   "installed_plugins": {
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.phinacio.garconapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.phinacio.garconapp"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.phinacio.garconapp"
     }
   },
   "dependent_plugins": {}

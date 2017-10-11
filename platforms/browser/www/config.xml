@@ -1,18 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phinacio.garconapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Garçonete So de Cenoura</name>
+    <name>Garçonete Só de Cenoura</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Aplicativo para uso dos waiters dentro do restaurante.
     </description>
-    <author email="phinacio.com" href="https://phinacio.com">
+    <author email="contato@phinacio.com" href="https://phinacio.com">
         Pedro Henrique | phinacio
     </author>
-    <content src="index.html" />
-    <access origin="*" />
-    <allow-intent href="http://*/*" />
-    <allow-intent href="https://*/*" />
-    <allow-intent href="tel:*" />
-    <allow-intent href="sms:*" />
-    <allow-intent href="mailto:*" />
-    <allow-intent href="geo:*" />
+    <preferences name="Orientation" value="portrait" />
+    <preferences name="Fullscreen" value="true" />
+    <preferences name="BackgroundColor" value="0xF2F2F2FF" />
+    <preferences name="DisallowOverscroll" value="true" />
+    <icon src="resources\android\icon\drawable-xhdpi-icon.png" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
 </widget>
